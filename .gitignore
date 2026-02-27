@@ -167,3 +167,4 @@ cython_debug/
 **/reports/**
 04-test/RoboFrameWork/l**.html
 04-test/RoboFrameWork/**.xml
+.vscode/*
